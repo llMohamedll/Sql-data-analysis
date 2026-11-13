@@ -1,4 +1,4 @@
-# Project 05: SQL for Data Analysis
+SQL for Data Analysis
 
 ## Overview
 Comprehensive SQL tutorial using Python's sqlite3 and pandas, covering database design, complex queries, joins, aggregations, and CRUD operations.
